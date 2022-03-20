@@ -11,6 +11,7 @@ int n= sc.nextInt();
 int a[]=new int[100];
 
 System.out.println("Enter the array elements");
+	//mychange
 for(int i=0;i<n;i++)
 {
 	a[i]=sc.nextInt();
